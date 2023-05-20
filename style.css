@@ -1,0 +1,8 @@
+html {
+  text-align: center;
+  background-color: deepskyblue;
+}
+
+#time-display {
+  font-size: 100px;
+}
